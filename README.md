@@ -1,5 +1,5 @@
 ##Hi👋 My name is Mykola
-
+-------------------------------------------------------------------------------------------------------
 Full Stack Developer
 
 Its my works 👇
@@ -7,7 +7,7 @@ Its my works 👇
 
 
 <div>
-<a>Online Store Kintsugi</a>
+<h1>Online Store Kintsugi</h1>
   <ul>
     <li>Frontend: React, Redux, Framer Motion, Styled-components for a modern, responsive interface and smooth animations.</li>
     <li>Backend: Node.js, Express, MongoDB, Mongoose for a reliable API and secure data storage.</li>
