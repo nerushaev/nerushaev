@@ -1,10 +1,8 @@
-##Hi👋 My name is Mykola
+Hi👋 My name is Mykola
 -------------------------------------------------------------------------------------------------------
 Full Stack Developer
 
-Its my works 👇
-
-
+This is my works 👇
 
 <div>
 <h1 style="color:blue">Online Store Kintsugi</h1>
