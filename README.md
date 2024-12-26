@@ -7,7 +7,7 @@ Its my works 👇
 
 
 <div>
-<h1 color="blue">Online Store Kintsugi</h1>
+<h1 style="color:blue">Online Store Kintsugi</h1>
   <ul>
     <li>Frontend: React, Redux, Framer Motion, Styled-components for a modern, responsive interface and smooth animations.</li>
     <li>Backend: Node.js, Express, MongoDB, Mongoose for a reliable API and secure data storage.</li>
