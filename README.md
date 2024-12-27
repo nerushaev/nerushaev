@@ -14,3 +14,8 @@ This is my works 👇
   </ul>
   <img src="https://res.cloudinary.com/dzjmswzgp/image/upload/v1735221106/Group_68_x0ckbu.png"/>
 </div>
+
+<div>
+<h1 style="color:blue">Another projects</h1>
+  <img src="https://res.cloudinary.com/dzjmswzgp/image/upload/v1735318064/Group_69_tkfemo.png"/>
+</div>
